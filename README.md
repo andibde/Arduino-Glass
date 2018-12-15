@@ -1,2 +1,2 @@
-# Arduino-Glass
-My DIY Arduino Glass. 
+# GIG-Glass
+The GIG Glass. 
